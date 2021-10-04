@@ -6,9 +6,6 @@
   2) [Fork](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) the repository to local.
   
   3) Open the repository in Android Studio and build the application. You can choose to build it on a physical device or an emulator.
-
-### Additional Info:
-   **Username**: automation@gymondo.de
-   
-   **Password**: automation
+ 
+ 4) Run TestActivitySuite.kt file
 
